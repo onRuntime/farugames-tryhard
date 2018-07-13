@@ -3,3 +3,5 @@ version: ${project.version}
 main: net.farugames.game.tryhard.Tryhard
 authors: [SweetKebab_]
 website: https://farugames.net
+commands:
+    gamestart:
